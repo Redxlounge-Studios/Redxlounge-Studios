@@ -3,7 +3,7 @@ Ich bin Mika, ein 18 Jähriger Typ aus dem Internet :)
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/c3ny3pcFYf) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/phyroks) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tzHe3KUNHp)
 
 <a style="padding-left: 100px">[![Discord Presence](https://lanyard.cnrad.dev/api/810459620035657769)](https://discord.com/users/810459620035657769)</a>
 
